@@ -1,0 +1,14 @@
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.FrmCotacaodolar.resources
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.Properties.Resources.resources
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.GenerateResource.cache
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juliano\Desktop\PROJETOS WEB\APIs\APICotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CopyComplete
